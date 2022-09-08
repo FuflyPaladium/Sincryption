@@ -1,5 +1,5 @@
 # Sincryption Team Panel
-<img src="Zorkayush.png"><br>
+<img src="Sincryption.png"><br>
 
 
 
