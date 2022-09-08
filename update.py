@@ -1,3 +1,33 @@
-# Team sincryption
-# Encrypted by samay ! 
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==wr8iDIB8/v/+DIFP8sPkry5WGlLoKPoZ5zugLv13ii1K0qcorqdz3S8XVpgMRA3pIDa5WwUntBJkoR6WAYtSBeAGHHfNV2cBYzNZAPuzU6QCttT2dpU1z05br/h+VvqlqftFvlOuAsKjXEJiqOPFQWePlXK5ZU0I4lLGSswbiPmrMsf2zUF2oIbGOkGPddttODveHa3owiouaxK7NlTei2C1+cY/NhpfqtE6kclhLpnXKz0RDz8V+ZEWLgVHiQWyzOtzlAc7Iygz8bkzIPO+tt1TiWrEx4I8KO4yh41Hp0dC4mTA70j2bAsn+sSfcSK6l+vEsMW5jkEUrwxurUxIeU9zSsd2cIqUCGjOw73yqe+YVNzkdBTuExQB581qWm3EV7baaGqyZENmwZdSBXncNDFqZ+pi2d0zdXYz9Yt4x/2NVoZt/o666By+egbMLV0nPdFIMljLO5snFNoRynIpZ4U8zpLg20n8MeDvmjKD3wkv9KAHyNedbYgy1prp7rEUlQ9epAMQMzcM8QnV8VB9iwcHpyd26VpxxS6NzXCX283IxcL6SUThnM/93Pk0z+8jjeJl1L3pf/LVKNwMBvcXAFhkWBQwSxBmCoweeGPDNAAAjqWecwFwJe'))
+# colors 
+r = "\033[1;31m"
+g = "\033[1;32m"
+y = "\033[1;33m"
+b = "\033[1;34m"
+d = "\033[2;37m"
+R = "\033[1;41m"
+Y = "\033[1;43m"
+B = "\033[1;44m"
+w = "\033[1;37m"
+g = "\033[0;90m"
+y = r
+
+#----------------modules
+from os import system,name
+from time import sleep
+
+
+# -----clear 
+system('cls' if name=='nt' else 'clear')
+
+#-------update
+system('rm -rf premium.py')
+system('rm -rf main.py')
+sleep(0.1)
+#system('wget https://raw.githubusercontent.com/samay825/Sms-Bomb/main/premium.py')
+system('wget https://raw.githubusercontent.com/samay825/Sincryption/main/main.py')
+print(r+"└─ "+w+"\033[1;37m>> Script Updated <<")
+sleep(0.5)
+
+# ---------return to main.py file 
+system('python main.py' if name=='nt' else 'python3 main.py')
+#print('script updated now run the script again')
