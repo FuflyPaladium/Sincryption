@@ -1,3 +1,5 @@
+I put here the deobfuscated code (deobf.py). You have the way to deobf the code in way.py
+
 # Sincryption Team Panel
 <img src="Sincryptzork.png"><br>
 
